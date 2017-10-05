@@ -15,3 +15,7 @@ forge "http://forge.puppetlabs.com"
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+mod 'myowntesting',
+   :git    => 'git@github.com:yashwanth522/myowntesting.git',
+   :branch => 'master'
